@@ -13,7 +13,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Front0End Developer/Technical Lead <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Front-End Developer/Technical Lead <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Technical Lead and contributing to frontend for building web applications.
 - 🌱 Exploring Vue.js.
